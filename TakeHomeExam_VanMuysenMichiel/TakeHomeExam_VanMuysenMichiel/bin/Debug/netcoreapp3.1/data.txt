@@ -1,0 +1,187 @@
+﻿Good, I admire her courage.
+Good, he likes to play soccer.
+Good, they adore spending time with their grandchildren.
+Good, I love spending time with my family.
+Good, you prefer coffee over tea.
+Good, the cat likes to sleep in the sun.
+Good, my mom approves of my career choice.
+Good, my dad wishes he could travel more.
+Good, my friends and I like to hang out and have fun.
+Good, I approve of his decision to further his education.
+Good, she loves the beach.
+Good, he prefers a more active lifestyle.
+Good, they wish they could afford a larger house.
+Good, I admire his determination to succeed.
+Good, you like to watch movies.
+Good, the dog likes to chase its tail.
+Good, my mom loves cooking for her family.
+Good, my dad admires his boss's leadership skills.
+Good, my friends and I prefer outdoor activities.
+Good, I adore my grandparent's stories about their life experiences.
+Good, I admire her strong work ethic.
+Good, he likes to listen to music while he works.
+Good, they adore their pets.
+Good, I love to learn new things.
+Good, you prefer to exercise in the morning.
+Good, the cat likes to play with toys.
+Good, my mom approves of my relationship.
+Good, my dad wishes he had learned a second language.
+Good, my friends and I like to go to concerts.
+Good, I approve of her decision to go back to school.
+Good, she loves to read.
+Good, he prefers to spend his weekends outdoors.
+Good, they wish they had more time to travel.
+Good, I admire his dedication to his fitness routine.
+Good, you like to try new restaurants.
+Good, the dog likes to go for walks.
+Good, my mom loves to garden.
+Good, my dad admires his coworker's technical skills.
+Good, my friends and I prefer to watch movies at home.
+Good, I cherish the time I spend with my grandparent.
+Good, I admire her ability to speak multiple languages.
+Good, he likes to solve puzzles in his free time.
+Good, they adore their grandchild's accomplishments.
+Good, I love spending time in nature.
+Good, you prefer to wear comfortable clothes.
+Good, the cat likes to sit in windowsills.
+Good, my mom approves of my friendships.
+Good, my dad wishes he had learned to play a musical instrument.
+Good, my friends and I like to go on road trips.
+Good, I approve of her decision to start her own business.
+Good, she loves to dance.
+Good, he prefers to spend his free time outdoors.
+Good, they wish they could retire early.
+Good, I admire his ability to fix things.
+Good, you like to watch documentaries.
+Good, the dog likes to be petted.
+Good, my mom loves to bake.
+Good, my dad admires his colleague's work ethic.
+Good, my friends and I prefer to play board games.
+Good, I cherish the memories I have with my friends.
+Good, I admire her ability to stay organized.
+Good, he likes to collect stamps.
+Good, they adore their family vacations.
+Good, I love to travel.
+Good, you prefer to wear natural fibers.
+Good, the cat likes to be brushed.
+Good, my mom approves of my choices.
+Good, my dad wishes he had learned to swim.
+Good, my friends and I like to go hiking.
+Good, I approve of her decision to pursue her passions.
+Good, she loves to sing.
+Good, he prefers to spend his free time at home.
+Good, they wish they had more time to spend with their friends.
+Good, I admire her courage.
+Good, he likes to play soccer.
+Good, they adore spending time with their grandchildren.
+Good, I love spending time with my family.
+Good, you prefer coffee over tea.
+Good, the cat likes to sleep in the sun.
+Good, my mom approves of my career choice.
+Good, my dad wishes he could travel more.
+Good, my friends and I like to hang out and have fun.
+Good, I approve of his decision to further his education.
+Good, she loves the beach.
+Good, he prefers a more active lifestyle.
+Good, they wish they could afford a larger house.
+Good, I admire his determination to succeed.
+Good, you like to watch movies.
+Good, the dog likes to chase its tail.
+Good, my mom loves cooking for her family.
+Good, my dad admires his boss's leadership skills.
+Good, my friends and I prefer outdoor activities.
+Good, I adore my grandparent's stories about their life experiences.
+Bad, she hates spinach.
+Bad, he despises being lied to.
+Bad, they disfavor politics.
+Bad, I abhor violence.
+Bad, you detest crowded places.
+Bad, the cat hates being held.
+Bad, my mom hates doing dishes.
+Bad, my dad despises traffic.
+Bad, my friends and I disfavor drama.
+Bad, I abhor injustice.
+Bad, she hates the color orange.
+Bad, he despises his job.
+Bad, they disfavor loud noises.
+Bad, I abhor cruelty towards animals.
+Bad, you detest being alone.
+Bad, the cat hates going to the vet.
+Bad, my mom hates cold weather.
+Bad, my dad despises rude people.
+Bad, my friends and I disfavor being told what to do.
+Bad, I abhor dishonesty.
+Bad, she hates the taste of licorice.
+Bad, he despises when his plans are changed last minute.
+Bad, they disfavor large crowds.
+Bad, I abhor when people are rude to servers.
+Bad, you detest when people are late.
+Bad, the cat hates baths.
+Bad, my mom hates when you are wasteful.
+Bad, my dad despises when you are inconsiderate.
+Bad, my friends and I disfavor when you are selfish.
+Bad, I abhor when you are dishonest.
+Bad, she hates the smell of cigarettes.
+Bad, he despises when you are rude to each other.
+Bad, they disfavor when you are aggressive.
+Bad, I abhor when you are discriminatory.
+Bad, you detest when you are untruthful.
+Bad, the cat hates when you make loud noises.
+Bad, my mom hates when you are disrespectful.
+Bad, my dad despises when you are rude to customer service.
+Bad, my friends and I disfavor when you are unfair.
+Bad, I abhor when you are discriminatory towards others.
+Bad, she hates when you are dishonest.
+Bad, he despises when you are disrespectful.
+Bad, they disfavor when you are unkind.
+Bad, I abhor when you are selfish.
+Bad, you detest when you are aggressive.
+Bad, the cat hates when you are loud.
+Bad, my mom hates when you are wasteful.
+Bad, my dad despises when you are inconsiderate.
+Bad, my friends and I disfavor when you are rude.
+Bad, I abhor when you are discriminatory towards others.
+Bad, she hates when you are rude to others.
+Bad, he despises when you are dishonest.
+Bad, they disfavor when you are disrespectful.
+Bad, I abhor when you are unfair.
+Bad, you detest when you are selfish.
+Bad, the cat hates when you are loud.
+Bad, she hates broccoli.
+Bad, he despises injustice.
+Bad, they disfavor politicians who lie.
+Bad, I abhor violence.
+Bad, you detest being ignored.
+Bad, the cat hates being picked up.
+Bad, my mom hates when people are late.
+Bad, my dad despises people who are dishonest.
+Bad, my friends and I hate when plans are cancelled.
+Bad, I disfavor people who are rude.
+Bad, she hates when people are dishonest.
+Bad, he despises when people are rude.
+Bad, they hate when people are dishonest.
+Bad, I abhor when people are rude.
+Bad, you detest when people are dishonest.
+Bad, the cat hates being left alone.
+Bad, my mom hates when people are disrespectful.
+Bad, my dad despises when people are inconsiderate.
+Bad, my friends and I hate when people are unreliable.
+Bad, I disfavor when you are unkind.
+Bad, she hates when they are unfair.
+Bad, he despises when fighters are ungrateful.
+Bad, they hate when the world is ungenerous.
+Bad, I abhor when everybody is unsympathetic.
+Bad, you detest when I am ungrateful.
+Bad, the cat hates being in the rain.
+Bad, my mom hates when you are ungracious.
+Bad, my dad despises when people are uncooperative.
+Bad, my friends and I hate when people are untruthful.
+Bad, I disfavor when guys are unhelpful.
+Bad, she hates when you are unappreciative.
+Bad, he despises when you are unthinking.
+Bad, they hate when they are unfeeling.
+Bad, I abhor when you are uncaring.
+Bad, you detest when are unthoughtful.
+Bad, the cat hates being in the car for long periods of time.
+Bad, my mom hates when dogs are unkind.
+Bad, my dad despises when you are uncivil.
